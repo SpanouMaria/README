@@ -38,7 +38,7 @@ For more detailed information, please refer to the individual repositories on my
 ## Education
 
 **University of Ioannina**  
-BSc in Computer Engineering and Informatics (Expected Graduation: Year)
+BSc in Computer Science and Engineering intergraded Marser (Expected Graduation: 2026, five years study)
 
 ## Contact
 
