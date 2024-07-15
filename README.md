@@ -1,9 +1,9 @@
 # README
-# Maria Spanou - Computer Engineering and Engineering Student
+# Maria Spanou - Computer Science and Engineering Student
 
 ## About Me
 
-Hello! I am Maria Spanou, a 21-year-old student studying Computer Engineering and Engineering at the University of Ioannina. Through my university education and personal dedication, I have built a strong foundation in multiple programming languages, both in software and hardware domains.
+Hello! I am Maria Spanou, a 21-year-old student studying Computer Science and Engineering at the University of Ioannina. Through my university education and personal dedication, I have built a strong foundation in multiple programming languages, both in software and hardware domains.
 
 I am open to various opportunities, including internships and collaborations. My journey in programming began at the age of 18 when I entered university, and since then, I have achieved several milestones, which are showcased in my profile.
 
@@ -31,7 +31,7 @@ For more detailed information, please refer to the individual repositories on my
 - **Web Development**: 
   - HTML
 - **Hardware Programming**: 
-  - VHDL, Assembly, Verilog
+  - VHDL, Assembly
 - **Tools and Technologies**: 
   - Git, Linux
 
