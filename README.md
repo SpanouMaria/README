@@ -17,9 +17,10 @@ I am open to various opportunities, including internships and collaborations. My
 
 Some of the projects I have worked on within the scope of my studies and personal interest include:
 
-- **Project 1**: Brief description and technologies used.
-- **Project 2**: Brief description and technologies used.
-- **Project 3**: Brief description and technologies used.
+- **Project 1**: Peg Solitaire Game (Python).
+- **Project 2**: Stones Game (Python).
+- **Project 3**: Guess Word Game (Python).
+- 
 
 For more detailed information, please refer to the individual repositories on my GitHub profile.
 
@@ -43,8 +44,8 @@ BSc in Computer Engineering and Informatics (Expected Graduation: Year)
 
 I am always eager to connect with like-minded individuals and explore new opportunities. Feel free to reach out to me through the following channels:
 
-- **Email**: [maria.spanou@example.com](mailto:maria.spanou@example.com)
-- **LinkedIn**: [linkedin.com/in/maria-spanou](https://linkedin.com/in/maria-spanou)
+- **Email**: [spanoumaria3@yahoo.com](mailto:spanoumaria3@yahoo.com)
+- **LinkedIn**: [linkedin.com/in/maria-spanou](https://linkedin.com/in/spanou-maria)
 
 ---
 
